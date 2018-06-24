@@ -23,3 +23,6 @@ Concepts:
 16.Evading IDS, Firewalls, Honeypot 
 17.Cloud Computing  
 18.Cryptography  
+
+Useful and Highly recommended bookmarks related to hacking and information security. 
+https://www.vulnhub.com/resources/   
