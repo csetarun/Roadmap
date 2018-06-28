@@ -26,3 +26,7 @@ Concepts:
 
 Useful and Highly recommended bookmarks related to hacking and information security. 
 https://www.vulnhub.com/resources/   
+
+
+https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother-ebook/dp/B01GZY28CW  
+https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441  
